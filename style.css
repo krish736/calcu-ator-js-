@@ -6,7 +6,7 @@
     margin: auto;
     display: grid;
     grid-template-rows: 1fr 2fr;
-    background-color: black;
+    background-color: burlywood;
 }
 
 .output{
